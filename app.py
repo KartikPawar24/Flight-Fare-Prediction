@@ -1,17 +1,20 @@
 from flask import render_template, request, Flask
 import pickle
 import pandas as pd
+from flask_cors import cross_origin
 
 app = Flask(__name__)
 model = pickle.load(open('flight_model.pkl', 'rb'))
 
 
 @app.route('/')
+@cross_origin()
 def home():
     return render_template('home.html')
 
 
 @app.route('/predict', methods=["POST"])
+@cross_origin()
 def predict():
     if request.method == "POST":
 
