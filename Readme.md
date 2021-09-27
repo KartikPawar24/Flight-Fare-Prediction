@@ -112,9 +112,9 @@ If you find any issue with the project or you could not get the desirable result
 
 <a href="https://flask.palletsprojects.com/en/1.1.x/" target="_blank"> <img src="https://camo.githubusercontent.com/3638770a498aa8a62be0fb35f9217dbc78a50d739e1f6cdc64ef88def23aa1ec/68747470733a2f2f666c61736b2e70616c6c65747370726f6a656374732e636f6d2f656e2f312e312e782f5f696d616765732f666c61736b2d6c6f676f2e706e67" width="170" data-canonical-src="https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png" style="max-width: 100%"></a>
 
-<a href="https://www.gunicorn.org" target="_blank"> <img src="https://gunicorn.org/images/logo.jpg" style="max-width: 100%">
+<a href="https://www.gunicorn.org" target="_blank"> <img src="https://gunicorn.org/images/logo.jpg"/></a>
 
-<a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" style="max-width: 50%"/> </a>
+<a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn"/> </a>
 
 # Author
  - [Kartik Pawar](https://www.github.com/KartikPawar24)
