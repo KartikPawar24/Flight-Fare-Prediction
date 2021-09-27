@@ -1,8 +1,6 @@
 # Flight Fare Prediction
 
 # Table of Contents
-- [Flight Fare Prediction](#flight-fare-prediction)
-- [Table of Contents](#table-of-contents)
 - [Demo](#demo)
 - [Overview](#overview)
 - [Motivation](#motivation)
