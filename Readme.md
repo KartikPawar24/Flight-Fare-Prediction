@@ -7,8 +7,8 @@
 - [Overview](#overview)
 - [Motivation](#motivation)
 - [Installation](#installation)
-  - [1. Cloning the repository](#1-cloning-the-repository)
-  - [2. Installing the required dependencies](#2-installing-the-required-dependencies)
+  - [Cloning the repository](#1-cloning-the-repository)
+  - [ Installing the required dependencies](#2-installing-the-required-dependencies)
 - [Run Local](#run-local)
 - [Deployment on Heroku](#deployment-on-heroku)
 - [Directory Tree](#directory-tree)
@@ -18,6 +18,9 @@
 
 # Demo
 
+You can find the deployed app here: https://flight-fare-predict-ml.herokuapp.com
+
+https://user-images.githubusercontent.com/33437982/134840992-5ef3a179-4830-4878-bee2-7df009d2d5d4.mp4
 
 # Overview
 
@@ -80,7 +83,7 @@ To know about the deployment of app on heroku, you can refer to this documentati
 
 # Directory Tree
 
-```bash
+```
 |
 │   .gitignore
 │   app.py
